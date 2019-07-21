@@ -1,0 +1,12 @@
+{
+    "server": {
+        "port": 1313
+    },
+    "db": {
+        "host": "localhost",
+        "database": "mitrais_test",
+        "port": 5432,
+        "user": "postgres",
+        "password": "YOUR-POSTGRES-PASSWORD"
+    }
+}

@@ -1,0 +1,9 @@
+@host=http://localhost:1313/api
+
+POST {{host}}/user
+Content-Type: application/x-www-form-urlencoded
+
+email=naufal@mail.com
+&no_hp=08985313582
+&first_name=achmad
+&last_name=naufal
